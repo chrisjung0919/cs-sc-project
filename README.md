@@ -1,0 +1,1 @@
+The USC summer camp projects were created during my four years in high school, where I attended the camp every summer. These projects focused on web development, covering HTML and CSS, allowing me to build interactive and responsive web pages.
